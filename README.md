@@ -1,6 +1,6 @@
 # pneumonnia-detection:
 ## cover page
-![cover page](https://github.com/prafullnayan/pneumonnia-detection/blob/master/images/pneu1.JPG")
+![cover page](https://github.com/prafullnayan/pneumonnia-detection/blob/master/images/pneu1.JPG "Logo Title Text 1")
 
 ## diagnose
 ![cover page](https://github.com/prafullnayan/pneumonnia-detection/blob/master/images/pneu4.JPG")
